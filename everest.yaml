@@ -1,0 +1,7 @@
+ - Name: Shorty's Hats
+  Version: 1.0.0
+  Dependencies:
+  - Name: Everest
+    Version: 1.3471.0
+  - Name: Hateline
+    Version: 0.1.4

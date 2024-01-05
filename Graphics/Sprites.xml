@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Sprites>
+  <hateline_daisy path="crown/daisy/" start="crown">
+    <Justify x=".5" y="1" />
+    <Loop id="crown" path="crown" delay="0.8"/>
+  </hateline_daisy>
+  <hateline_doug path="crown/doug/" start="crown">
+    <Justify x=".5" y="1" />
+    <Loop id="crown" path="crown" delay="0.8"/>
+  </hateline_doug>
+  <hateline_sleep path="crown/sleep/" start="crown">
+    <Justify x=".5" y="0.9" />
+    <Loop id="crown" path="crown" delay="0.8"/>
+  </hateline_sleep>
+  <hateline_straw path="crown/straw/" start="crown">
+    <Justify x=".5" y="1" />
+    <Loop id="crown" path="crown" delay="0.8"/>
+  </hateline_straw>
+  <hateline_wizard path="crown/wizard/" start="crown">
+    <Justify x=".5" y="1" />
+    <Loop id="crown" path="crown" delay="0.8"/>
+  </hateline_wizard>
+  <hateline_mlg path="crown/mlg/" start="crown">
+    <Justify x=".5" y="0.25" />
+    <Loop id="crown" path="crown" delay="0.8"/>
+  </hateline_mlg>
+</Sprites>
