@@ -8,6 +8,10 @@
     <Justify x=".5" y="1" />
     <Loop id="crown" path="crown" delay="0.8"/>
   </hateline_doug>
+  <hateline_hardhat path="crown/hardhat/" start="crown">
+    <Justify x=".5" y="1" />
+    <Loop id="crown" path="crown" delay="0.8"/>
+  </hateline_hardhat>
   <hateline_sleep path="crown/sleep/" start="crown">
     <Justify x=".5" y="0.9" />
     <Loop id="crown" path="crown" delay="0.8"/>
